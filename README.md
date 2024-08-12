@@ -1,0 +1,1 @@
+# bazar_shop
